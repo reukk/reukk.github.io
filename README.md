@@ -8,4 +8,3 @@
   <p>This is a placeholder page for API testing.</p>
 </body>
 </html>
-```5.  Scroll to the bottom of the page and click the green **"Commit new file"** button.
